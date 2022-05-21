@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img class="PORTFOLIO" src="./img/portfolio.png" alt="Portfolio">
+
+
+
+
 
