@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=How+are+you+doing+today+?;Glad+you+visited+my+profile+!;Read+along+to+know+about+me+😉;)](https://git.io/typing-svg)
+
 Hello, I'm Shayan Hore and I'm a web developer who blends technical know-how and creative vision to craft exceptional websites. With 3 years of experience in the industry, I have honed my skills in HTML, CSS, JavaScript, and modern front-end and back-end frameworks like React and Node.js.<br><br>I'm not just a coder, I'm a problem solver who is passionate about delivering user-friendly, engaging, and visually stunning websites that make a lasting impression. My ultimate goal is to help bring my clients' ideas to life, adding my touch of innovation and flair to every project I take on.<br><br>Whether you're looking for a simple brochure website or a complex web application, I'm confident that I have the skills, experience, and drive to make your vision a reality. Let's work together to create something truly unique and amazing!
 
 
