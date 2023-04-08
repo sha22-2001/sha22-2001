@@ -1,3 +1,4 @@
+![Green White Minimalist Special Menu Burger Banner](https://user-images.githubusercontent.com/95826757/230699585-06f1fbbd-dd96-4cc7-b1bb-ee0409519e27.gif)
 # 💫 About Me:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=How+are+you+doing+today+?;Glad+you+visited+my+profile+!;Read+along+to+know+about+me+😉;)](https://git.io/typing-svg)
