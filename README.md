@@ -1,4 +1,4 @@
-[![Click here to see my portfolio](https://github.com/user-attachments/assets/30dd2181-7c4a-444a-858a-79a08cc32494)](https://sh2207.netlify.app/)
+[![Click here to see my portfolio](https://github.com/user-attachments/assets/d1931cc7-f38d-4e98-aea8-3d9ff2f0edb7)](https://sh2207.netlify.app/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%86+Check+out+my+portfolio+!;%F0%9F%98%80%F0%9F%98%84%F0%9F%98%85%F0%9F%A4%A3%F0%9F%98%82%F0%9F%99%82%F0%9F%99%83%F0%9F%AB%A0%F0%9F%98%89)](https://git.io/typing-svg)
 # 💫 About Me:
