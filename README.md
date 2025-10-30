@@ -24,9 +24,6 @@ Hello, I'm Shayan Hore and I'm a web developer who blends technical know-how and
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sha22-2001&theme=buddhism&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ### Thanks for Visiting my GitHub Profile!
 
   ## 💰 You can help me by Donating
